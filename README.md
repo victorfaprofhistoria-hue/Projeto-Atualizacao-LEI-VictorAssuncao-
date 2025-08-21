@@ -52,7 +52,7 @@ Os desktops devem atender às seguintes especificações mínimas e recomendadas
 
 A imagem a seguir exemplifica o tipo de desktop adequado às necessidades do projeto:
 
-![Exemplo de Desktop Educacional](C:\Users\VFA\Pictures\p587g6wq38on13jg95yaixl2125ftl140118.avif)
+
 
 *Representação ilustrativa de um desktop moderno, ideal para ambientes educacionais.*  
 
