@@ -64,9 +64,9 @@ A imagem a seguir exemplifica o tipo de desktop adequado às necessidades do pro
 | :------------------------------- | :--------: | :---------------------------: | :-----------------------: |
 | **Desktop (com monitor e periféricos)** | 30         | 5.500,00                     | 165.000,00                |
 | Estabilizadores/Filtros de linha  | 30         | 25,00                        | 750,00                    |
-| Bolsas para Notebook              | 30         | 50,00                        |1.500,00                   |
+| Mouse pad personalizado             | 30         | 20,00                        |600,00                   |
 | Instalação e Configuração Inicial | 1          | 250,00                       | 250,00                    |
-| **TOTAL GERAL ESTIMADO** |            |                               | **167.250,00** |
+| **TOTAL GERAL ESTIMADO** |            |                               | **166.600,00** |
 
 ---
 
@@ -104,6 +104,6 @@ A implementação dos novos desktops proporcionará os seguintes benefícios:
 
 ## 8. Considerações Finais
 
-A aquisição de **30 desktops modernos** para o Laboratório Educacional de Informática da EEEP Professora Marly Ferreira Martins é uma ação estratégica para assegurar a qualidade do ensino técnico integrado. O investimento previsto de **R$ 167.250,00** permitirá a substituição dos equipamentos obsoletos, resultando em melhor desempenho, maior confiabilidade e infraestrutura condizente com as demandas atuais. Com isso, a escola estará fortalecida para continuar oferecendo educação de excelência, alinhada às exigências tecnológicas do mercado de trabalho.  
+A aquisição de **30 desktops modernos** para o Laboratório Educacional de Informática da EEEP Professora Marly Ferreira Martins é uma ação estratégica para assegurar a qualidade do ensino técnico integrado. O investimento previsto de **R$ 166.600,00** permitirá a substituição dos equipamentos obsoletos, resultando em melhor desempenho, maior confiabilidade e infraestrutura condizente com as demandas atuais. Com isso, a escola estará fortalecida para continuar oferecendo educação de excelência, alinhada às exigências tecnológicas do mercado de trabalho.  
 
 ---
